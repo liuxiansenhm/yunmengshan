@@ -1,5 +1,5 @@
 spring:
   application:
-    name: order-test
+    name: order-zhangning
 server:
   port: 9001
